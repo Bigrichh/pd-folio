@@ -265,7 +265,7 @@ export default {
   border-radius: 18px;
   background: #E6E6E6;
   max-width: 630px;
-  height: 3200px;
+  height: fit-content;
   padding: 40px 80px;
   justify-content: center;
   align-items: left;
@@ -510,7 +510,7 @@ a {
     border-radius: 18px;
     background: #E6E6E6;
     max-width: 460px;
-    height: 4000px;
+    height: fit-content;
     padding: 40px 40px;
     justify-content: center;
     align-items: left;
@@ -756,7 +756,7 @@ a {
     border-radius: 18px;
     background: #E6E6E6;
     max-width: 700px;
-    height: 4000px;
+    height: fit-content;
     padding: 40px 40px;
     justify-content: center;
     align-items: left;
@@ -997,7 +997,7 @@ a {
     border-radius: 18px;
     background: #E6E6E6;
     max-width: 500px;
-    height: 4000px;
+    height: fit-content;
     padding: 40px 40px;
     justify-content: center;
     align-items: left;
@@ -1240,7 +1240,7 @@ a {
     border-radius: 18px;
     background: #E6E6E6;
     max-width: 400px;
-    height: 4000px;
+    height: fit-content;
     padding: 40px 40px;
     justify-content: center;
     align-items: left;
@@ -1483,7 +1483,7 @@ a {
     border-radius: 18px;
     background: #E6E6E6;
     max-width: 400px;
-    height: 4000px;
+    height: fit-content;
     padding: 40px 40px;
     justify-content: center;
     align-items: left;
@@ -1660,6 +1660,8 @@ a {
 
 
 
+
+
 /*Extra Small Devices (Phones) */
 @media (max-width: 399px) {
   .navbar {
@@ -1727,7 +1729,7 @@ a {
     border-radius: 18px;
     background: #E6E6E6;
     max-width: 400px;
-    height: 6000px;
+    height: fit-content;
     padding: 40px 20px;
     justify-content: center;
     align-items: left;

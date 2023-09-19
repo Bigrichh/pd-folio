@@ -2290,7 +2290,7 @@ a {
 
   .navbar {
     margin: 50px auto 0;
-    max-width: 300px;
+    width: 300px;
   }
 
 
@@ -2299,7 +2299,7 @@ a {
     border-radius: 10px;
     background: url("@/assets/Latestproject.jpg") no-repeat center center / cover;
     height: 300px;
-    max-width: 300px;
+    width: 300px;
     margin: 20px auto 0;
     position: relative;
   }

@@ -1408,7 +1408,7 @@ a {
     gap: 160px;
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.80) 0%, rgba(0, 0, 0, 0.80) 100%), url('@/assets/techEatslandingimage.jpg'), lightgray;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.80) 0%, rgba(0, 0, 0, 0.80) 100%), url('@/assets/libraVuelandingimage.jpg'), lightgray;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1686,7 +1686,7 @@ a {
     gap: 160px;
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.80) 0%, rgba(0, 0, 0, 0.80) 100%), url('@/assets/techEatslandingimage.jpg'), lightgray;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.80) 0%, rgba(0, 0, 0, 0.80) 100%), url('@/assets/libraVuelandingimage.jpg'), lightgray;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1973,7 +1973,7 @@ a {
     gap: 160px;
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.80) 0%, rgba(0, 0, 0, 0.80) 100%), url('@/assets/techEatslandingimage.jpg'), lightgray;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.80) 0%, rgba(0, 0, 0, 0.80) 100%), url('@/assets/libraVuelandingimage.jpg'), lightgray;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -2291,7 +2291,7 @@ a {
     gap: 160px;
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.80) 0%, rgba(0, 0, 0, 0.80) 100%), url('@/assets/techEatslandingimage.jpg'), lightgray;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.80) 0%, rgba(0, 0, 0, 0.80) 100%), url('@/assets/libraVuelandingimage.jpg'), lightgray;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
