@@ -627,7 +627,7 @@ ul li::before {
   max-width: 90%;
   display: flex;
   margin: 200px auto;
-  gap: 200px;
+  gap: 140px;
   align-items: center;
 }
 
@@ -660,7 +660,7 @@ ul li::before {
   display: flex;
   flex-direction: row-reverse;
   margin: 200px auto;
-  gap: 200px;
+  gap: 140px;
   align-items: center;
 }
 
